@@ -1,4 +1,6 @@
 ChirpStack Setup with Node-RED and Gateway
+
+
 Introduction
 
 This document provides an overview of the setup process for ChirpStack with Node-RED integration and the gateway configuration used in the project.
@@ -6,14 +8,11 @@ Prerequisites
 
     ChirpStack installed
     Node-RED installed
-    Gateway hardware
+    Gateway hardware  (MikroTik L9 kit)
 
 ChirpStack Setup
 
-    Install ChirpStack Components:
-        ChirpStack Network Server
-        ChirpStack Application Server
-        ChirpStack Gateway Bridge
+    Install ChirpStack to OS
 
     Configuration:
         Configure the chirpstack-network-server.toml file with the necessary parameters, including network settings and database configurations.
