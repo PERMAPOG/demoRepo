@@ -33,6 +33,7 @@ Node-RED Integration
 Gateway Setup
 
     Configure gateway's LoRa packet forwarder to chirpstack server using ssh or by connecting to its 2.4 GHz WLAN interface.
+    Configure the Antenna gain to your specific specs. 
 
     
 Testing and Verification
@@ -41,4 +42,4 @@ Testing and Verification
 
 Conclusion
 
-This setup provides a reliable integration of ChirpStack with Node-RED for efficient data handling.
+The integration of ChirpStack with Node-RED is now complete and ready for use with LoRa capable devices. 
